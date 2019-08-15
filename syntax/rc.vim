@@ -19,11 +19,13 @@ syn keyword rcOption
                     \ socket
                     \ group
                     \ capabilities
+                    \ interface
                     \ setrlimit
                     \ seclabel
                     \ oneshot
                     \ onrestart
                     \ writepid
+                    \ ioprio
                     \ priority
                     \ namespace
                     \ oom_score_adjust 
