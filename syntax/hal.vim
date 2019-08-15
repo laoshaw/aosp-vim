@@ -6,7 +6,7 @@ if exists("b:current_syntax")
   finish
 endif
 
-source $VIMRUNTIME/syntax/java.vim
+source $VIMRUNTIME/syntax/c.vim
 unlet b:current_syntax
 
 "hidl specific keywords
